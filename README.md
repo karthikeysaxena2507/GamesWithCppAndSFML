@@ -1,5 +1,5 @@
 # GAMES-WITH-CPP-AND-SFML
-A mini collection of 4 games I made using C++ and Simple Fast Multimedia Library (SFML) in Visual Studio
+A mini collection of 4 games I made using C++ and Simple Fast Multimedia Library (SFML) for animations, graphics and audio in Visual Studio 2019.
 I have classified the games for one player and two players and created menus for them.
 Some snapshots are:
 
