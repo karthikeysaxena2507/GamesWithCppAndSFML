@@ -3,6 +3,8 @@ A mini collection of 4 games I made using C++ and Simple Fast Multimedia Library
 I have classified the games for one player and two players and created menus for them.
 Some snapshots are:
 
+[LIVE DEMO](https://user-images.githubusercontent.com/66271249/111206686-b4628c00-85ee-11eb-8d7d-8240132e9f7c.mp4)
+
 The first menu that will first appear on the screen:
 
 ![STARTMENU](https://user-images.githubusercontent.com/66271249/87132048-ee86cb80-c2b2-11ea-91c1-0bdb12160e4d.PNG)
